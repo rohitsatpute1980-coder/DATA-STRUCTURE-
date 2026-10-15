@@ -22,7 +22,7 @@ int main()
     {
         if (rollNo[i] == searchRoll)
         {
-            found = true;
+            found =true;
         }
     }
 
